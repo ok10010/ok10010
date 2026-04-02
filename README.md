@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Привет, я бро 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%2F+TypeScript;Building+cool+stuff" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,postgres,docker" />
+</p>
