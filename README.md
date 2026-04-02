@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Привет 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%2F+TypeScript;Building+cool+stuff" />
@@ -23,39 +22,11 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,postgres,docker" />
 </p>
-<!-- ========================= -->
-<!--      PROFILE README       -->
-<!-- ========================= -->
 
-<h1 align="center">Йо, я ТВОЁ_ИМЯ 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%2F+TypeScript;Building+cool+stuff;Open+to+work+%2F+freelance" />
-</p>
 
-<p align="center">
-  <img src="ТУТ_ССЫЛКА_НА_БАННЕР" alt="banner" width="100%" />
-</p>
 
----
 
-## 🚀 About me
-
-- 💻 Я занимаюсь: `frontend / backend / fullstack / gamedev / ml`
-- 🌱 Сейчас изучаю: `React / Next.js / Node.js / Docker / whatever`
-- 🔥 Люблю делать: `UI / API / Telegram bots / automation / dashboards`
-- 🎯 Цель: `найти работу / качнуть портфолио / делать сильные проекты`
-- ⚡ Факт обо мне: `сюда можешь вписать что-то живое`
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,nodejs,express,python,postgres,mongodb,docker,git,github,figma,vscode" />
-</p>
-
----
 
 ## 🎨 Fancy badges
 
@@ -69,55 +40,6 @@ Here are some ideas to get you started:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ТВОЙ_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ТВОЙ_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-### 1. Project Name
-> Короткое описание проекта. Что делает, зачем нужен, в чём фишка.
-
-- 🔗 Demo: [Открыть](ТУТ_ССЫЛКА)
-- 📦 Repo: [Репозиторий](ТУТ_ССЫЛКА)
-- 🛠 Stack: `React`, `TypeScript`, `Node.js`
-
-### 2. Project Name
-> Короткое описание проекта. Что делает, зачем нужен, в чём фишка.
-
-- 🔗 Demo: [Открыть](ТУТ_ССЫЛКА)
-- 📦 Repo: [Репозиторий](ТУТ_ССЫЛКА)
-- 🛠 Stack: `Next.js`, `PostgreSQL`, `Docker`
-
-### 3. Project Name
-> Короткое описание проекта. Что делает, зачем нужен, в чём фишка.
-
-- 🔗 Demo: [Открыть](ТУТ_ССЫЛКА)
-- 📦 Repo: [Репозиторий](ТУТ_ССЫЛКА)
-- 🛠 Stack: `Python`, `FastAPI`, `PostgreSQL`
-
----
 
 ## 🖼 Preview Section
 
@@ -143,15 +65,6 @@ Here are some ideas to get you started:
 
 ---
 
-## 💼 Open for
-
-- internship
-- junior position
-- freelance
-- collabs
-- open source
-
----
 
 ## 🌐 Connect with me
 
@@ -194,13 +107,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 📈 Activity Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ТВОЙ_USERNAME&theme=tokyo-night&hide_border=true" />
-</p>
-
----
 
 ## 🧩 Extra widgets
 
@@ -212,29 +119,3 @@ Here are some ideas to get you started:
 
 ---
 
-## 📚 Favorite tools
-
-- VS Code
-- Figma
-- Postman
-- Docker
-- Git
-- Linux
-
----
-
-## 🧪 Small intro card
-
-```ts
-const developer = {
-  name: "ТВОЁ_ИМЯ",
-  role: "Frontend Developer",
-  code: ["JavaScript", "TypeScript", "Python"],
-  technologies: {
-    frontEnd: ["React", "Next.js"],
-    backEnd: ["Node.js", "Express"],
-    database: ["PostgreSQL", "MongoDB"],
-    misc: ["Docker", "Git", "Figma"]
-  },
-  currentFocus: "Building cool and clean projects"
-};
