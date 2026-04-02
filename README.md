@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **ok10010/ok10010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Привет, я бро 👋</h1>
+<h1 align="center">Привет 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%2F+TypeScript;Building+cool+stuff" />
