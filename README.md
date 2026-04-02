@@ -1,19 +1,14 @@
-
 <!--
-**ok10010/ok10010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**ok10010/ok10010** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 -->
 
+<p align="center">
+  <img src="ТУТ_ССЫЛКА_НА_ТВОЙ_БАННЕР" alt="banner" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%2F+TypeScript;Building+cool+stuff" />
@@ -23,10 +18,9 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,postgres,docker" />
 </p>
 
-
-
-
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141e30,100:243b55&height=3&section=header" width="100%" />
+</p>
 
 ## 🎨 Fancy badges
 
@@ -38,8 +32,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/DB-PostgreSQL-336791?style=for-the-badge&logo=postgresql" />
 </p>
 
----
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:243b55,100:141e30&height=3&section=header" width="100%" />
+</p>
 
 ## 🖼 Preview Section
 
@@ -53,18 +48,23 @@ Here are some ideas to get you started:
   <img src="ТУТ_ССЫЛКА_НА_ГИФКУ_ИЛИ_СКРИН4" width="45%" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141e30,100:243b55&height=3&section=header" width="100%" />
+</p>
 
 ## 🧠 Currently learning
 
-- `TypeScript`
-- `Next.js`
-- `System Design`
-- `Docker`
-- `Testing`
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/System_Design-111111?style=for-the-badge&logo=bookstack" />
+  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/Testing-111111?style=for-the-badge&logo=testinglibrary" />
+</p>
 
----
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:243b55,100:141e30&height=3&section=header" width="100%" />
+</p>
 
 ## 🌐 Connect with me
 
@@ -75,17 +75,21 @@ Here are some ideas to get you started:
   <a href="ТУТ_ССЫЛКА_НА_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141e30,100:243b55&height=3&section=header" width="100%" />
+</p>
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ТВОЙ_USERNAME/ТВОЙ_USERNAME/output/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/ok10010/ok10010/output/snake.svg" alt="snake animation" />
 </p>
 
-> Если змейка не работает — её надо отдельно настраивать через GitHub Actions.
+> Если змейка не работает — её надо отдельно настроить через GitHub Actions.
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:243b55,100:141e30&height=3&section=header" width="100%" />
+</p>
 
 ## 🎵 Spotify / Music / Vibes
 
@@ -93,7 +97,9 @@ Here are some ideas to get you started:
   <img src="ТУТ_ССЫЛКА_НА_СПОТИФАЙ_ВИДЖЕТ_ЕСЛИ_ЕСТЬ" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141e30,100:243b55&height=3&section=header" width="100%" />
+</p>
 
 ## 🎮 Fun section
 
@@ -105,17 +111,18 @@ Here are some ideas to get you started:
   <b>“ТУТ МОЖНО КАКУЮ-НИБУДЬ ФРАЗУ”</b>
 </p>
 
----
-
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:243b55,100:141e30&height=3&section=header" width="100%" />
+</p>
 
 ## 🧩 Extra widgets
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ТВОЙ_USERNAME&style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/followers/ТВОЙ_USERNAME?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/ТВОЙ_USERNAME?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=ok10010&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/ok10010?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/ok10010?style=for-the-badge" />
 </p>
 
----
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+</p>
