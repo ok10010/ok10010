@@ -3,7 +3,7 @@
 -->
 
 <p align="center">
-  <img src="ТУТ_ССЫЛКА_НА_ТВОЙ_БАННЕР" alt="banner" width="100%" />
+  <img src="https://img.freepik.com/premium-vector/horizontal-template-with-cherry-blossom-tree-sakura-illustration-hanami-holiday-spring-vector_449384-1256.jpg?semt=ais_incoming&w=740&q=80" alt="banner" width="100%" />
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141e30,100:243b55&height=3&section=header" width="100%" />
 </p>
 
-## 🌐 Connect with me
+
 
 <p align="center">
   <a href="ТУТ_ССЫЛКА_НА_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
