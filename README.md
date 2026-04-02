@@ -11,18 +11,25 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%2F+TypeScript;Building+cool+stuff" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=C%2B%2B+Developer;Python+Developer;Building+cool+stuff" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,postgres,docker" />
+  <img src="https://skillicons.dev/icons?i=cpp,python" />
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141e30,100:243b55&height=3&section=header" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141e30,100:243b55&height=3&section=header" width="100%" />
+</p>
 
 <p align="center">
   <a href="ТУТ_ССЫЛКА_НА_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
@@ -34,7 +41,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141e30,100:243b55&height=3&section=header" width="100%" />
 </p>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ok10010&style=for-the-badge&color=blue" />
