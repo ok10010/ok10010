@@ -42,11 +42,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141e30,100:243b55&height=3&section=header" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ok10010&style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/followers/ok10010?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/ok10010?style=for-the-badge" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
