@@ -11,11 +11,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=C%2B%2B+Developer;Python+Developer;Building+cool+stuff" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=C%2B%2B+Developer;Python+Developer;C%23+Developer;Building+cool+stuff" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,cs" />
 </p>
 
 <p align="center">
@@ -25,6 +25,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Code-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
 <p align="center">
@@ -41,7 +42,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141e30,100:243b55&height=3&section=header" width="100%" />
 </p>
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
